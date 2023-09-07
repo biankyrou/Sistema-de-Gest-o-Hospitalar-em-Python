@@ -7,7 +7,7 @@ Este projeto implementa um sistema de gestão hospitalar em Python, permitindo o
 - **Manipulação de Arquivos**
 - **Funções**
 - **Listas**
-- **Classe**
+- **Classes**
 
 ## Habilidades Desenvolvidas
 - **Desenvolvimento em Python**: fortifiquei meus conhecimentos em Python e utilizei a linguagem para criar o sistema de gestão hospitalar.
