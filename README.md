@@ -1,4 +1,4 @@
-# Projeto de Sistema de Gestão Hospitalar:
+# Projeto de Sistema de Gestão Hospitalar
 Este projeto implementa um sistema de gestão hospitalar em Python, que permite o cadastro, consulta, alteração e exclusão de médicos, pacientes e consultas. Os dados são persistidos em arquivos de texto específicos para cada tipo de entidade (médico, paciente e consulta).
 
 Conhecimentos Utilizados:
