@@ -1,7 +1,7 @@
 # Projeto de Sistema de Gestão Hospitalar
 Este projeto implementa um sistema de gestão hospitalar em Python, que permite o cadastro, consulta, alteração e exclusão de médicos, pacientes e consultas. Os dados são persistidos em arquivos de texto específicos para cada tipo de entidade (médico, paciente e consulta).
 
-+ Conhecimentos Utilizados:
+Conhecimentos Utilizados:
 - Python
 - Manipulação de Arquivos
 - Funções
@@ -9,7 +9,7 @@ Este projeto implementa um sistema de gestão hospitalar em Python, que permite 
 - Listas
 
 
-+ Habilidades Desenvolvidas:
+Habilidades Desenvolvidas:
 - Desenvolvimento em Python: aprendi a programar em Python e utilizei a linguagem para criar o sistema de gestão hospitalar.
 - Manipulação de arquivos em Python: implementei a persistência de dados em arquivos de texto, permitindo armazenar informações sobre médicos, pacientes e consultas.
 - Implementação de menus e submenus: desenvolvi um sistema de menus interativos que facilita a interação com o programa, tornando-o mais amigável para o usuário.
